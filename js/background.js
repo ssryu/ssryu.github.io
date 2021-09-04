@@ -13,3 +13,4 @@ function onResizeWindow() {
 }
 
 window.onresize = onResizeWindow;
+onResizeWindow();
