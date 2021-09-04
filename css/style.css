@@ -72,6 +72,8 @@ ol li {
 input {
   text-align: center;
   margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
   width: 70%;
   height: 20px;
   color: #ffffff;
